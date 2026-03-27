@@ -37,6 +37,9 @@ switch2.
 •  Another end of lamp holder is connected to neutral line.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
+![image](https://github.com/knowkash007-max/EXP-3/blob/main/WhatsApp%20Image%202026-03-27%20at%209.38.00%20PM(1).jpeg)
+![image](https://github.com/knowkash007-max/EXP-3/blob/main/WhatsApp%20Image%202026-03-27%20at%209.38.00%20PM(2).jpeg)
+![image](https://github.com/knowkash007-max/EXP-3/blob/main/WhatsApp%20Image%202026-03-27%20at%209.38.01%20PM(3).jpeg)
 
 
 Direct connection: CIRCUIT DIAGRAM: 
@@ -45,11 +48,6 @@ Tabulation:1
 Cross connection: CIRCUIT DIAGRAM:
 
 Tabulation:2
-
-![image](https://github.com/knowkash007-max/EXP-3/blob/main/WhatsApp%20Image%202026-03-27%20at%209.38.00%20PM(1).jpeg)
-![image](https://github.com/knowkash007-max/EXP-3/blob/main/WhatsApp%20Image%202026-03-27%20at%209.38.00%20PM(2).jpeg)
-![image](https://github.com/knowkash007-max/EXP-3/blob/main/WhatsApp%20Image%202026-03-27%20at%209.38.01%20PM(3).jpeg)
-
 
 
 
